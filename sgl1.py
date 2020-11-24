@@ -12,6 +12,7 @@ def main():
     data = bcapi.apiCallByReplayId('1ef2f98e-d7d9-45a3-b2dd-7e92a2da73b0')
     #print(data)
     print(data['blue']['players'][0]['camera']['fov'])
+    print('local_change')
     bcapi.apiCallReplays(76561198977461300, )
     
 if __name__ == '__main__':
