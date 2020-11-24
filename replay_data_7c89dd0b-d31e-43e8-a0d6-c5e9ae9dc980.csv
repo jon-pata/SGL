@@ -1,0 +1,9 @@
+Date,Time,Venue,Teams,Results,Outcome,Team Points,Team Goals,Team Assists,Team Saves,Team Shots,Team Demos,Team Demos Taken,Boost/Min,bcpm,avg_amount,amount_collected,amount_stolen,amount_collected_big,amount_stolen_big,amount_collected_small,amount_stolen_small,count_collected_big,count_stolen_big,count_collected_small,count_stolen_small,amount_overfill,amount_overfill_stolen,amount_used_while_supersonic,time_zero_boost,percent_zero_boost,time_full_boost,percent_full_boost,time_boost_0_25,time_boost_25_50,time_boost_50_75,time_boost_75_100,percent_boost_0_25,percent_boost_25_50,percent_boost_50_75,percent_boost_75_100,avg_speed,total_distance,time_supersonic_speed,time_boost_speed,time_slow_speed,time_ground,time_low_air,time_high_air,time_powerslide,count_powerslide,avg_powerslide_duration,avg_speed_percentage,percent_slow_speed,percent_boost_speed,percent_supersonic_speed,percent_ground,percent_low_air,percent_high_airavg_distance_to_ball,avg_distance_to_ball_possession,avg_distance_to_ball_no_possession,time_defensive_third,time_neutral_third,time_offensive_third,time_defensive_half,time_offensive_half,time_behind_ball,time_infront_ball,time_most_back,time_most_forward,goals_against_while_last_defender,time_closest_to_ball,time_farthest_from_ball,percent_defensive_third,percent_offensive_third,percent_neutral_third,percent_defensive_half,percent_offensive_half,percent_behind_ball,percent_infront_ball,percent_most_back,percent_most_forward,percent_closest_to_ball,percent_farthest_from_ball
+2020-11-23,23:31:21Z,SGL Twitch,DARK CLOUDS,2122,17,0,12,0,0,5,12,1,1
+tbone2b,1032,6,2,0,8,1,0
+Fury,615,3,3,0,4,0,1
+Junker,475,3,0,0,5,0,0
+2020-11-23,23:31:21Z,SGL Twitch,SURGE,303,0,17,0,12,2,0,0,1,1
+Middy,133,0,0,1,0,0,0
+Outlaw,110,0,0,1,0,1,1
+Marley,60,0,0,0,0,0,0
